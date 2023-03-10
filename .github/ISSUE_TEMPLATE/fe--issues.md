@@ -1,5 +1,5 @@
 ---
-name: "[FE:FEATURE] 타이틀을 작성합니다"
+name: 'FE: issues'
 about: Describe this issue template's purpose here.
 title: ''
 labels: ''
